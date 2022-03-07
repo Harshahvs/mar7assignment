@@ -1,0 +1,2 @@
+a=str(input("enter the name: "))
+print(a[1:-1])
